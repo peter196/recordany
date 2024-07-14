@@ -21,7 +21,7 @@
 
 
 常用下载
-万能录屏 32位永久下载地址（常用）
+<a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu.apk">32位永久下载地址（常用）</a>
 万能录屏 64位永久下载地址
 
 32位历史版本
