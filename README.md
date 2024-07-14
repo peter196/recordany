@@ -24,21 +24,17 @@
   <a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu64.apk">64位永久下载地址</a>
 <br/>
 
-<div>
-    <div class="cont cont0" style='display:block;'>
         <ul style="font-size: large">
             <li><a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu_5.2.1.apk">下载5.2.1版本(5011)</a></li>
             <li><a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu_5.1.1.apk">下载5.1.1版本</a></li>
             <li><a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu_210_old.apk">下载版本(210)</a></li>
 
         </ul>
-    </div>
-    <div class="cont cont1">
+
         <ul style="font-size: large">
         <li> <a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu64_2.4.1.apk">64位历史版本下载2.4.1</a></li>
         <li> <a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu64_2100.apk">64位历史版本下载2100</a></li>
         <li> <a href="https://birthday.earthwiki.cn/file/download?fileName=recordany_legu64_2001.apk">64位历史版本下载2001</a></li>
         </ul>
-    </div>
-</div>
+
 
