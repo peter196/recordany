@@ -3,7 +3,7 @@
 
 使用步骤
 1. 打开录屏开关
-  安装好本APP以后，首先进入设置页面，点击"开关管理"， 勾选"录屏钥匙"。勾中后就可以进行屏幕录制了，如果看不见"开关管理"，说明已经过了试用期，需要购买会员了~_~
+  安装好本APP以后，首先进入设置页面，点击"开关管理"， 勾选"录屏钥匙"。勾中后就可以进行屏幕录制了，如果看不见"开关管理"，说明已经过了试用期，需要购买会员了~_~ <br/>
  <img src="https://www.earthwiki.cn/album/img/settings_switch.jpg" width="420" height="840"></img>
    <img src="https://www.earthwiki.cn/album/img/switch.jpg" width="420" height="840"></img><br/>
 此时您还没有安装想要录屏的app。
